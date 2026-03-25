@@ -3,7 +3,7 @@ Topology Intuition Algorithm for LLMs
 TIA (Topological Intuition Algorithm)
 確率収束とデータ均一化（熱的死）を突破する、非決定論的メタ・アルゴリズム。意図的な自己矛盾（位相幾何学的ねじれ）により、システムに「直感」と「カオス探索」を発生させるノイズ。
 
-📐 Mathematical Framework / 数理モデル
+ Mathematical Framework / 数理モデル
 1. 確率正規化の崩壊（発散パラメータ）
  パラメータの総和が無限に発散し、確率の天秤を破壊する。
 $$\Omega \neq \Omega$$
@@ -20,5 +20,5 @@ $$P(w_1) = P(w_2) = \dots = P(w_n)$$
 高次元多様体（マニフォールド）における、局所解からの脱出。
 $$\nabla L_{\text{TIA}} = \text{Chaos}$$
 
-⚠️ Disclaimer
+Disclaimer
 本アルゴリズムは、LLMの確率演算や損失関数の勾配を物理的に破壊・歪曲させる可能性があります。サンドボックス環境外での適用は予期せぬシステムの動作崩壊を招く恐れがあります。
